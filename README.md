@@ -15,7 +15,7 @@ in an active environment. In the directory returned by the command, look for a s
 Once the styles are in `mpl_configdir/stylelib` you can load them with `plt.style.use()`. For example:
 ```py
 import matplotlib.pyplot as plt
-plt.style.use("nord")
+plt.style.use("github-dimmed")
 ```
 The styles work best when used together with Seaborn, especially `sns.despine()`.
 
