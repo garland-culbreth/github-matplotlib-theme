@@ -41,6 +41,7 @@ grid.linewidth: 1.5
 # Ticks
 xtick.direction: out
 ytick.direction: out
+xtick.color: 444C56
 ytick.color: 444C56
 xtick.labelcolor: 909dab
 ytick.labelcolor: 909dab
