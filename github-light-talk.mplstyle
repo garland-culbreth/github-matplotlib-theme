@@ -1,9 +1,10 @@
 # A light Nord themed matplotlib style.
 # This style with larger elements, suitable for talks.
 #
-# Inspired by Seaborn whitegrid and the Nord theme:
+# Inspired by Seaborn whitegrid and the GitHub VScode
+# themes.
 # https://www.nordtheme.com/
-# https://seaborn.pydata.org/
+# https://github.com/primer/github-vscode-theme
 #
 # GC
 #----------------------------------------------------------
