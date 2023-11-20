@@ -24,14 +24,26 @@ All styles have a font stack that attempts to use Gill Sans, then falls back on 
 
 # Examples
 
-## github-light  
-![ex-github-light](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/091088a8-007f-4acc-bf1f-37fd2d431243)
+<details>
+  <summary>github-light</summary>
+  
+  ![ex-github-light](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/091088a8-007f-4acc-bf1f-37fd2d431243)
+</details>
 
-## github-light-talk  
-![ex-github-light-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/4de6474e-7fc8-4325-b7b5-4b1034d6b261)
+<details>
+  <summary>github-light-talk</summary>
+  
+  ![ex-github-light-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/4de6474e-7fc8-4325-b7b5-4b1034d6b261)
+</details>
 
-## github-dimmed  
-![ex-github-dimmed](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/69668335-e553-4f82-9aae-c87c24a31d8f)
+<details>
+  <summary>github-dimmed</summary>
+  
+  ![ex-github-dimmed](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/69668335-e553-4f82-9aae-c87c24a31d8f)
+</details>
 
-## github-dimmed-talk  
-![ex-github-dimmed-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/896a0ff2-4e01-4611-8657-bcf6e3689165)
+<details>
+  <summary>github-dimmed-talk</summary>
+  
+  ![ex-github-dimmed-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/896a0ff2-4e01-4611-8657-bcf6e3689165)
+</details>
