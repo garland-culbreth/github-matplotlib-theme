@@ -19,31 +19,30 @@ plt.style.use("github-dimmed")
 ```
 The styles work best when used together with Seaborn, especially `sns.despine()`.
 
-All styles have a font stack that attempts to use Gill Sans, then falls back on Helvetica or Arial, then falls back on Matplotlib defaults. Gill Sans is a standard system font on both Windows (as Gill Sans MT) and macOS (as Gill Sans). Windows users can also get Gill Sans Nova as a system font by installing the optional [Pan-European Supplemental Fonts](https://docs.microsoft.com/en-us/windows/deployment/windows-10-missing-fonts#install-optional-fonts-manually-without-changing-language-settings) for free.
-
+All styles have a font stack that attempts to use Roboto, then falls back on Helvetica or Arial, then falls back on Matplotlib defaults. Roboto is available for free on [Google fonts](https://fonts.google.com/specimen/Roboto).
 
 # Examples
 
 <details>
   <summary>github-light</summary>
   
-  ![github-light](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/7ebfebdf-1620-43d2-9d0c-47578235bd61)
+  ![github-light](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/4c748e14-08fd-4fcd-a04f-a12f7c02615b)
 </details>
 
 <details>
   <summary>github-light-talk</summary>
   
-  ![github-light-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/42d55336-7f21-4f61-a6df-0ecdc433c432)
+  ![github-light-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/71dc1fb1-18eb-4d17-9896-682fc3e28639)
 </details>
 
 <details>
   <summary>github-dimmed</summary>
   
-  ![github-dimmed](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/35167669-6ea4-492c-86ff-5e09e4f1d663)
+  ![github-dimmed](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/0b493309-37c3-4673-bf1c-8454758fa65c)
 </details>
 
 <details>
   <summary>github-dimmed-talk</summary>
   
-  ![github-dimmed-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/7840373e-75e1-4485-8843-7b707be20980)
+  ![github-dimmed-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/d1bf32a2-b322-4006-9f22-09e6a5577001)
 </details>
