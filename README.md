@@ -1,4 +1,4 @@
-# GitHub Matplotlib Styles
+# GitHub styles for Matplotlib
 
 Github themed stylesheets for [Matplotlib](https://matplotlib.org/). Colors selected from the [primer palette](https://github.com/primer/primitives). Styles strongly inspired by [Seaborn](https://seaborn.pydata.org/).
 
