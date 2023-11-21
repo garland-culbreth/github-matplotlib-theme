@@ -44,5 +44,5 @@ All styles have a font stack that attempts to use Roboto, then falls back on Hel
 <details>
   <summary>github-dimmed-talk</summary>
   
-  ![github-dimmed-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/cb515ed3-e0d6-4dc5-8896-b8d97b69a984)
+  ![github-dimmed-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/39c576db-f772-4cc5-aca9-557e0f1a563c)
 </details>
