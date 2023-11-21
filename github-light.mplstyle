@@ -14,18 +14,18 @@ lines.linewidth: 1
 lines.solid_capstyle: round
 lines.markersize: 6
 patch.linewidth: 1
-patch.edgecolor: CDD9E5
+patch.edgecolor: d0d7de
 
 # Colors
-axes.prop_cycle: cycler('color', ["316dca", "f47067", "986ee2", "6bc46d", "6cb6ff", "e0823d", "adbac7"])
+axes.prop_cycle: cycler('color', ["0969da", "ec6547", "4ac26b", "a475f9", "54aeff", "d4a72c", "afb8c1"])
 image.cmap: magma
 
 # Axes
 axes.spines.top: False
 axes.spines.right: False
 axes.facecolor: white
-axes.edgecolor: ADBAC7
-axes.labelcolor: 444C56
+axes.edgecolor: afb8c1
+axes.labelcolor: 57606a
 axes.axisbelow: True
 axes.grid: False
 axes.linewidth: 1
@@ -33,17 +33,17 @@ axes.titlelocation: left
 axes.titleweight: bold
 
 # Grid
-grid.color: CDD9E5
+grid.color: eaeef2
 grid.linestyle: -
 grid.linewidth: 1
 
 # Ticks
 xtick.direction: out
 ytick.direction: out
-xtick.color: ADBAC7
-ytick.color: ADBAC7
-xtick.labelcolor: 545D68
-ytick.labelcolor: 545D68
+xtick.color: afb8c1
+ytick.color: afb8c1
+xtick.labelcolor: 6e7781
+ytick.labelcolor: 6e7781
 xtick.major.width: 1
 ytick.major.width: 1
 xtick.minor.width: 0.75
@@ -54,9 +54,10 @@ xtick.minor.size: 2.75
 ytick.minor.size: 2.75
 
 # Font
-text.color: 373E47
+text.color: 424a53
 font.family: sans-serif
 font.sans-serif: Roboto, Helvetica, Arial, DejaVu Sans, Bitstream Vera Sans, sans-serif
+mathtext.fontset: stixsans
 font.size: 12
 axes.labelsize: 14
 axes.titlesize: 14

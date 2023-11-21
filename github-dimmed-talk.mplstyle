@@ -18,14 +18,14 @@ patch.linewidth: 1.5
 patch.edgecolor: 2D333B
 
 # Colors
-axes.prop_cycle: cycler('color', ["4184e4", "f47067", "986ee2", "6bc46d", "6cb6ff", "e0823d", "768390"])
+axes.prop_cycle: cycler('color', ["#4184e4", "ec775c", "6bc46d", "986ee2", "6cb6ff", "daaa3f", "909dab"])
 image.cmap: magma
 
 # Axes
 axes.spines.top: False
 axes.spines.right: False
 axes.facecolor: 22272E
-axes.edgecolor: 444C56
+axes.edgecolor: 444c56
 axes.labelcolor: adbac7
 axes.axisbelow: True
 axes.grid: False
@@ -41,8 +41,8 @@ grid.linewidth: 1.5
 # Ticks
 xtick.direction: out
 ytick.direction: out
-xtick.color: 444C56
-ytick.color: 444C56
+xtick.color: 444c56
+ytick.color: 444c56
 xtick.labelcolor: 909dab
 ytick.labelcolor: 909dab
 xtick.major.width: 1.8
@@ -58,6 +58,7 @@ ytick.minor.size: 4.0
 text.color: adbac7
 font.family: sans-serif
 font.sans-serif: Roboto, Helvetica, Arial, DejaVu Sans, Bitstream Vera Sans, sans-serif
+mathtext.fontset: stixsans
 font.size: 16
 axes.labelsize: 18
 axes.titlesize: 18
