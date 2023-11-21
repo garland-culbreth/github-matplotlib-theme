@@ -26,23 +26,23 @@ All styles have a font stack that attempts to use Roboto, then falls back on Hel
 <details>
   <summary>github-light</summary>
   
-  ![github-light](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/4c748e14-08fd-4fcd-a04f-a12f7c02615b)
+  ![github-light](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/5ad8f88c-acfe-4c0a-bd12-1f57ea8bc139)
 </details>
 
 <details>
   <summary>github-light-talk</summary>
   
-  ![github-light-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/71dc1fb1-18eb-4d17-9896-682fc3e28639)
+  ![github-light-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/db1ec084-9d94-4527-95e5-a2c7613d36a0)
 </details>
 
 <details>
   <summary>github-dimmed</summary>
   
-  ![github-dimmed](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/0b493309-37c3-4673-bf1c-8454758fa65c)
+  ![github-dimmed](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/27580937-18ff-4e5d-8173-199d897664c6)
 </details>
 
 <details>
   <summary>github-dimmed-talk</summary>
   
-  ![github-dimmed-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/d1bf32a2-b322-4006-9f22-09e6a5577001)
+  ![github-dimmed-talk](https://github.com/garland-culbreth/github-matplotlib-theme/assets/70354045/cb515ed3-e0d6-4dc5-8896-b8d97b69a984)
 </details>
